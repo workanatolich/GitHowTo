@@ -10,5 +10,7 @@
 <body>
     <h1>My first page</h1>
     <p>Hello friend</p>
+
+    <!-- Good bye-->
 </body>
 </html>
