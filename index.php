@@ -8,9 +8,8 @@
     <title>HTML tags</title>
 </head>
 <body>
-    <h1>My first page</h1>
-    <p>Hello friend</p>
 
-    <!-- Good bye-->
+<iframe src="lib/hello.html" width="200" height="200"></iframe>
+
 </body>
 </html>
