@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<h1>Hello friend</h1>
+<iframe src="lib/hello.html" width="200" height="200"></iframe>
 
 </body>
 </html>
